@@ -1,0 +1,15 @@
+RTT 100 ms
+TCP TLS1.2 300 ms before request
+TCP TLS1.3 200 ms before request
+QUIC first 100 ms before request
+QUIC resumed 0 ms before request
+RTT 150 ms
+TCP TLS1.2 450 ms before request
+TCP TLS1.3 300 ms before request
+QUIC first 150 ms before request
+QUIC resumed 0 ms before request
+RTT 300 ms
+TCP TLS1.2 900 ms before request
+TCP TLS1.3 600 ms before request
+QUIC first 300 ms before request
+QUIC resumed 0 ms before request

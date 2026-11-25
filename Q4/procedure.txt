@@ -1,0 +1,1 @@
+Linux/WSL with dnsutils: dig +trace results.simats.ac.in; dig @1.1.1.1 example.com; repeat twice, then use @8.8.8.8 and @9.9.9.9. Record Query time and status. dig nonexistent.invalid should return NXDOMAIN. Windows alternative nslookup example.com 1.1.1.1 (no equivalent full trace). The modeled IP is not a verified live address. Third lookup uses cache, zero upstream queries.

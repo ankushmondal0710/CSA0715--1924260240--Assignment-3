@@ -1,0 +1,6 @@
+0 80 objects sequential 8.1 persistent 4.1000000000000005 pipeline 0.15000000000000002 parallel 1.5
+0 8 objects sequential 0.9 persistent 0.5 pipeline 0.15000000000000002 parallel 0.30000000000000004
+50 80 objects sequential 16.2 persistent 8.200000000000001 pipeline 0.30000000000000004 parallel 3.0
+50 8 objects sequential 1.8 persistent 1.0 pipeline 0.30000000000000004 parallel 0.6000000000000001
+200 80 objects sequential 40.5 persistent 20.5 pipeline 0.75 parallel 7.5
+200 8 objects sequential 4.5 persistent 2.5 pipeline 0.75 parallel 1.5

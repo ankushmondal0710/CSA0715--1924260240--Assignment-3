@@ -1,0 +1,7 @@
+file 105000 SHA256 match True
+chat 29 SHA256 match True
+Local elapsed seconds 0.001542
+Stop-and-wait model 0.1 0 attempts 72 seconds 7.2 delivered bytes 105000
+Stop-and-wait model 0.1 0.05 attempts 75 seconds 7.5 delivered bytes 105000
+Stop-and-wait model 0.3 0 attempts 72 seconds 21.6 delivered bytes 105000
+Stop-and-wait model 0.3 0.05 attempts 75 seconds 22.5 delivered bytes 105000

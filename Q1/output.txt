@@ -1,0 +1,7 @@
+UDP lab1 -> ACK:lab1
+UDP lab2 -> ACK:lab2
+UDP lab3 -> ACK:lab3
+TCP server received 100000 bytes in order
+Model loss 1%: UDP delivered 989; ideal TCP delivered 1000 after retries
+Model loss 5%: UDP delivered 959; ideal TCP delivered 1000 after retries
+Model loss 10%: UDP delivered 910; ideal TCP delivered 1000 after retries

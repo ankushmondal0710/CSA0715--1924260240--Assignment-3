@@ -1,0 +1,10 @@
+500 (0.5, 1.0, 2.0)
+800 (0.8, 4.0, 5.0)
+900 (0.9, 9.0, 10.0)
+950 (0.95, 19.0, 20.0)
+990 (0.99, 99.0, 100.0)
+1000 unstable
+1100 unstable
+Backup 750 FIFO video ms 15.53 Priority video ms 2.18
+Backup 1000 FIFO video ms 1033.31 Priority video ms 2.33
+Backup 250 FIFO video ms 1.87 Priority video ms 1.6
